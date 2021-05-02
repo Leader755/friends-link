@@ -12,9 +12,7 @@ assignees: ''
     "title": "",
     "url": "",
     "avatar": "",
-    "screenshot": "",
-    "description": "",
-    "keywords": ""
+    "description": ""
 }
 ```
 
